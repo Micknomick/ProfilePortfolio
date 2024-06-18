@@ -1,6 +1,8 @@
 const Work = () => {
   return (
-    <div>Work</div>
+    <div className="w-full h-screen text-6xl flex items-center justify-center">
+      Coming Soon...
+      </div>
   );
 };
 

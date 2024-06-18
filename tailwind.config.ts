@@ -45,6 +45,9 @@ const config: Config = {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
       },
+      backgroundImage: {
+        circularLight:'repeating-radial-gradient(rgba(0,0,0,30) 2px, #f5f5f5 5px, #f5f5f5 100px,)',
+      },
     },
   },
   plugins: [require("tailwindcss-animate")],
